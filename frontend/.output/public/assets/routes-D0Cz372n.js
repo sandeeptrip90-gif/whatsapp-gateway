@@ -1,0 +1,1 @@
+import{t as e}from"./index-6pWoGSD_.js";import{t}from"./GatewayApp-o-_TVASH.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as component};
